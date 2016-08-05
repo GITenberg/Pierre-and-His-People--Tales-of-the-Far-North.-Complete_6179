@@ -1,0 +1,34 @@
+_repo: Pierre-and-His-People--Tales-of-the-Far-North.-Complete_6179
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Parker, Gilbert
+    aliases:
+    - Parker, Horatio Gilbert
+    - Parker, Gilbert, Sir, bart.
+    birthdate: 1862
+    deathdate: 1932
+    gutenberg_agent_id: '1285'
+    url: http://www.gutenberg.org/2009/agents/1285
+    wikipedia: http://en.wikipedia.org/wiki/Gilbert_Parker
+description: ''
+gutenberg_issued: '2004-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6179'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Canada, Northern -- Fiction'
+- !lcsh 'Short stories, Canadian'
+- GITenberg
+tableOfContents: The patrol of the Cypress Hills -- God's garrison -- A hazard of
+  the North -- A prairie vagabond -- She of the Triple Chevron -- Three outlaws --
+  Shon McGann's tobogan ride -- Père Champagne -- The Scarlet Hunter -- The stone
+  -- The tall master -- The crimson flag -- The flood -- In Pipi Valley -- Antoine
+  and Angelique -- The cipher -- A tragedy of nobodies -- A sanctuary of the plains.
+title: 'Pierre and His People: Tales of the Far North. Complete'
+url: http://www.gutenberg.org/ebooks/6179
